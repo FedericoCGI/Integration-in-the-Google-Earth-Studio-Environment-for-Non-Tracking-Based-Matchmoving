@@ -5,3 +5,4 @@ Rather than relying on tracking, camera calibration is achieved using geographic
 By converting these coordinates from ECEF to ENU and designing a custom Python script, camera's position, orientation, movement and properties can be accurately reconstructed in Maya, enabling seamless integration of CGI elements into the original footage.
 
 ## Workflow
+![Alt text](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/blob/main/images/workflow.svg)
