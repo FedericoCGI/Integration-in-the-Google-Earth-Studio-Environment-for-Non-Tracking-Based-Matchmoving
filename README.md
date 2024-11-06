@@ -21,7 +21,7 @@ The approach successfully bypasses traditional tracking methods, achieving CGI i
 ![stadium_original_footage](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/blob/main/images/Stadium_img.png)   ![stadium_final_footage](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/blob/main/images/Stadium_Final_img.png)
 
 ## Future Developments
-Potential improvements include refining the camera calibration presented in this work for more accurate animation in Maya and simplifying the procedure for deriving Pan, Tilt, and Roll angles, as the solution proposed in this thesis is somewhat complex and cumbersome. Additionally, expanding this procedure to live-action footage and improving compatibility with other 3D software andcould be possible, while AI-driven adjustments may further enhance CGI realism and streamline the workflow.
+Potential improvements include refining the camera calibration presented in this work for more accurate animation in Maya and simplifying the procedure for deriving Pan, Tilt, and Roll angles, as the solution proposed in this thesis is somewhat complex and cumbersome. Additionally, expanding this procedure to live-action footage and improving compatibility with other 3D software could be possible, while AI-driven adjustments may further enhance CGI realism and streamline the workflow.
 
 ## Content
 - The thesis produced for this work is avaible in [thesis.pdf](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/tree/main/thesis). Currently, this file is written in Italian, but an English version will be uploaded as soon as possible.
