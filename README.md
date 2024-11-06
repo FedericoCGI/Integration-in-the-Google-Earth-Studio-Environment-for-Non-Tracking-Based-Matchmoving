@@ -14,9 +14,9 @@ The approach successfully bypasses traditional tracking methods, achieving CGI i
 - on the left, a frame from the original footage created in GES;
 - on the right, a frame from the processed footage with integrated CGI elements.
 
-#### Fiumicino
-![Fiumicino_original_footage](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/blob/main/renders/original%20footage/Fiumicino.png) ![Fiumicino_final_footage](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/blob/main/renders/final%20footage/Fiumicino_Final.png)
+### Fiumicino
+![Fiumicino_original_footage](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/blob/main/images/Fiumicino_img.png) ![Fiumicino_final_footage](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/blob/main/images/Fiumicino_Final_img.png)
 
-#### Stadium
-![stadium_original_footage](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/blob/main/renders/original%20footage/Stadium.png) ![stadium_final_footage](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/blob/main/renders/final%20footage/Stadium_Final.png)
+### Stadium
+![stadium_original_footage](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/blob/main/images/Stadium_img.png)   ![stadium_final_footage](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/blob/main/images/Stadium_Final_img.png)
 
