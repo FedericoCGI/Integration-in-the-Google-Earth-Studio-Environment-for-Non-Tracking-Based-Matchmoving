@@ -6,5 +6,6 @@ By converting these coordinates from ECEF to ENU and designing a custom Python s
 
 ## Workflow
 The workflow proposed in this work utilizes Google Earth Studio (GES) data for a non-tracking-based matchmoving approach. Starting with GES, key camera data is extracted and processed in Matlab, frame by frame, in order to convert geographic coordinates (latitude, longitude, and altitude) from ECEF to ENU format, which is more compatible with Maya. A custom-designed Python script then uses this ENU information, saved in a JSON file, to reconstruct the camera animation in Maya, enabling accurate camera positioning, orientation, movement, and properties frame by frame. This procedure allows for the seamless integration of CGI elements into the processed footage.
+
 ![Project Workflow](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/blob/main/images/workflow_00.svg)
 
