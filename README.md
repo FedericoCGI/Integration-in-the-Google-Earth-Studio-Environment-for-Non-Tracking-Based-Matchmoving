@@ -9,3 +9,6 @@ The workflow proposed in this work utilizes Google Earth Studio (GES) data for a
 
 ![Project Workflow](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/blob/main/images/workflow_00.svg)
 
+## Results
+The approach successfully bypasses traditional tracking methods, achieving CGI integration by relying on geographic data. Test cases showed smooth alignment of CGI elements within scenes, producing accurate spatial matching without the need for tracking markers. Here's some examples. On the left, a frame extracted from the original footage created in GES. On the right, a frame extracted 
+
