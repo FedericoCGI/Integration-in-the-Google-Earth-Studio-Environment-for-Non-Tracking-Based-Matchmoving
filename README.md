@@ -30,6 +30,10 @@ Potential improvements include refining the camera calibration presented in this
 
 ## Autor
 [Federico March](https://github.com/FedericoCGI)
+- e-mail: federico.march.cgi@gmail.com
+- [ArtStation](https://www.artstation.com/federicomarch_cgi)
+- [LinkedIn](www.linkedin.com/in/federico-march-a15b17194/)
+
 
 ## Technologies
 For this work, the following technologies were used:
