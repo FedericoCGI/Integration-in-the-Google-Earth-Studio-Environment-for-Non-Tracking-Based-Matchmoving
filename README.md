@@ -1,4 +1,4 @@
-# Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving
+# ![cube](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/blob/main/images/cube_globe.png) Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving
 This project originated as my bachelor's thesis in Media Science and Technologies. 
 It explores a different approach to matchmoving that bypasses traditional tracking techniques by integrating CGI models into footage, using Google Earth Studio (GES) data.
 Rather than relying on tracking, camera calibration is achieved using geographic coordinates expressed in latitude, longitude, and altitude, provided by GES.
