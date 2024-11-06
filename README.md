@@ -26,7 +26,7 @@ Potential improvements include refining the camera calibration presented in this
 ## Content
 - The thesis produced for this work is avaible in [thesis.pdf](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/tree/main/thesis). Currently, this file is written in Italian, but an English version will be uploaded as soon as possible.
 - Regarding the implementation, MATLAB and Python scripts, along with the related JSON file, are available in the [code](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/tree/main/code) folder.
-- some examples of the original footage and its final version are avaible in the [renders](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/tree/main/renders) folder.
+- Some examples of the original footage and its final version are avaible in the [renders](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/tree/main/renders) folder.
 
 ## Autor
 [Federico March](https://github.com/FedericoCGI)
